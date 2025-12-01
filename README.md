@@ -24,6 +24,25 @@ Using the [Mall Customers dataset](https://www.kaggle.com/datasets/vjchoudhary7/
 ```bash
 git clone https://github.com/MohamedAyadi19/customer-segmentation.git
 cd customer-segmentation
-pip install -r requirements.txt
-
+pip install -r requirements.txT
+```
 ### Running Analysis
+
+jupyter notebook notebooks/01_data_understanding.ipynb
+
+## Methodology
+Data Preprocessing: Cleaning, normalization, handling missing values
+
+Exploratory Analysis: Understanding feature distributions
+
+Dimensionality Reduction: PCA to reduce features
+
+Clustering: Applying K-means and DBSCAN
+
+Segment Profiling: Analyzing cluster characteristics
+
+## Project Status
+ In Progress - This project is currently under development.
+
+## License
+MIT License
