@@ -1,24 +1,24 @@
 # Customer Segmentation using Clustering & PCA
 
-## 🎯 Project Overview
+##  Project Overview
 Customer segmentation project using unsupervised machine learning techniques to identify distinct customer groups based on behavior and demographics.
 
-## 🔍 Objectives
+##  Objectives
 - Apply clustering algorithms (K-means, DBSCAN) to segment customers
 - Use PCA for dimensionality reduction and improved interpretability
 - Generate actionable marketing insights for each segment
 
-## 🛠️ Technologies
+##  Technologies
 - Python 3.8+
 - Scikit-learn
 - Pandas & NumPy
 - Matplotlib & Seaborn
 - Plotly (optional for interactive visualizations)
 
-## 📊 Dataset
+##  Dataset
 Using the [Mall Customers dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) from Kaggle.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 ```bash
